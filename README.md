@@ -8,7 +8,7 @@ The objective of this project is to create a sales category analysis dashboard t
 
 The dataset used in this project can be accessed through the following link:
 
-<a href= "" >Dataset Link</a>
+<a href= "https://github.com/jawarianaeem/Sales-Category-Analysis-Dashboard/blob/main/Sample%20-%20Superstore-%20dataset.xls" >Dataset Link</a>
 
 # Key Questions and KPIs
 
@@ -29,6 +29,7 @@ The dashboard aims to address the following key questions:
 - Sales Trends Over Time
 
 # Dashboard Image
+<a href="https://github.com/jawarianaeem/Sales-Category-Analysis-Dashboard/blob/main/Sample%20-%20Superstore-%20dataset.xls">Dashboard Image</a>
 
 
 #Process
