@@ -22,7 +22,7 @@ The dashboard aims to address the following key questions:
 
 # Key Performance Indicators (KPIs):
 
--- Total Sales
+- Total Sales
 
 - Sales by Category
 
@@ -51,9 +51,8 @@ The process of creating the sales category analysis dashboard involved the follo
 
 - Interactive Filters: Added filters for time and region to enhance user interaction. Users can filter the data to focus on specific time periods and regions to gain more granular insights.
 
-Project Image
 
-
+<img width="1463" alt="Screenshot 2024-12-18 at 19 11 57" src="https://github.com/user-attachments/assets/fe5f5d70-74be-473c-96fe-a92876fc6f9a" />
 
 Project Insights
 
