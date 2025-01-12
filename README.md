@@ -22,7 +22,7 @@ The dashboard aims to address the following key questions:
 
 # Key Performance Indicators (KPIs):
 
-- Total Sales
+-- Total Sales
 
 - Sales by Category
 
